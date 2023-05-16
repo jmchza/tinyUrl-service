@@ -1,0 +1,22 @@
+{
+  "name": "tinyurl",
+  "version": "1.0.0",
+  "description": "shortenURl service",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmchza/tinyUrl-service.git"
+  },
+  "keywords": [
+    "shortenedURL"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmchza/tinyUrl-service/issues"
+  },
+  "homepage": "https://github.com/jmchza/tinyUrl-service#readme"
+}
